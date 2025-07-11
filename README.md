@@ -1,2 +1,3 @@
-# Data-Analysis-Dashboard
-I developed a comprehensive project in excel, creating multiple dashboards and tables to analyze the data. This process involved several stages including data cleaning, data processing and data visualization. 
+# MNK Store-Data-Analysis(Interactive Dashboard Creating Using MS Excel)
+## Project Objective
+MNK Store wants to create an annual sales report for 2022. so that, the owner of the MNK Store can understand their customers and grow more sales in 2023 & 2024.
