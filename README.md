@@ -16,6 +16,6 @@ MNK Store wants to create an annual sales report for 2022. so that, the owner of
 - Highest selling category?, etc.
 - Percentage of total orders delivered?
 
-- Dashboard Interactions <a href="">View Dashboard</a>			
+- Dashboard Interactions <a href="https://github.com/Maz-khan/Data-Analysis-Dashboard/blob/main/MNK%20store%20analysis%20photo.png">View Dashboard</a>			
    
 
