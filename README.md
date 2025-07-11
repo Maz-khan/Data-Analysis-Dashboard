@@ -16,15 +16,19 @@ MNK Store wants to create an annual sales report for 2022. so that, the owner of
 - Highest selling category?, etc.
 - Percentage of total orders delivered?
 
-## Dashboard
-
-<img width="885" height="377" alt="MNK store analysis photo" src="https://github.com/user-attachments/assets/dc4188b5-a406-4d43-ad30-f586e9e20ed4" />
+- Dashboard Interaction <a href="https://github.com/Maz-khan/Data-Analysis-Dashboard/blob/main/MNK%20store%20analysis%20photo.png">View Dashboard</a>
 
 
  ## Process
 - Verify data for any missing values and anomalies, and sort out of the same.
 - Made sure data is consistent and clean with respect to data type, data format and values used.
 - Created pivot tables according to the questions asked.
-- Merge all pivot tables into one dashboard and apply slicer to make dynamic.		
+- Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+
+
+## Dashboard
+
+<img width="885" height="377" alt="MNK store analysis photo" src="https://github.com/user-attachments/assets/dc4188b5-a406-4d43-ad30-f586e9e20ed4" />
+
    
 
